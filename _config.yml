@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            RoBo
 tagline:          Robust Bayesian Optimization
-description:      RoBO is a flexible framework for Bayesian optimization.
+description:      RoBO is a flexible framework for robust Bayesian Optimization.
 url:              https://github.com/automl/RoBO
 baseurl:          /RoboDocumentation1/
 
