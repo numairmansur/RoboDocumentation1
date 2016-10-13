@@ -3,7 +3,7 @@ layout: post
 title: Installation
 ---
 
-### Dependencies
+## Dependencies
 * numpy >= 1.7
 * scipy >= 0.12
 * GPy==0.6.1
@@ -12,7 +12,7 @@ title: Installation
 * direct
 * cma
 
-### How to install RoBO
+## How to install RoBO
 
 You can install RoBO by cloning the repository and executing the setup script:
 
